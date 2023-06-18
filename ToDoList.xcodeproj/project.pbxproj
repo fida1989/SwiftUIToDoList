@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2928A2AF2A3FA16A00D8C63E /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2928A2AE2A3FA16A00D8C63E /* HeaderView.swift */; };
 		29D153162A3E01E000331DA1 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29D153152A3E01E000331DA1 /* ToDoListApp.swift */; };
 		29D153182A3E01E000331DA1 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29D153172A3E01E000331DA1 /* MainView.swift */; };
 		29D1531A2A3E01E200331DA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29D153192A3E01E200331DA1 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2928A2AE2A3FA16A00D8C63E /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		29D153122A3E01E000331DA1 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29D153152A3E01E000331DA1 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		29D153172A3E01E000331DA1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				29D153372A3E1D4400331DA1 /* ItemView.swift */,
 				29D153492A3E286E00331DA1 /* LoginView.swift */,
 				29D1534B2A3E287B00331DA1 /* RegisterView.swift */,
+				2928A2AE2A3FA16A00D8C63E /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				29D153182A3E01E000331DA1 /* MainView.swift in Sources */,
+				2928A2AF2A3FA16A00D8C63E /* HeaderView.swift in Sources */,
 				29D153382A3E1D4400331DA1 /* ItemView.swift in Sources */,
 				29D1534E2A3E28AC00331DA1 /* ItemViewModel.swift in Sources */,
 				29D153442A3E275F00331DA1 /* NewItemViewModel.swift in Sources */,
