@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		290506E62A4806A9003E8355 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290506E52A4806A9003E8355 /* ButtonView.swift */; };
 		2928A2AF2A3FA16A00D8C63E /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2928A2AE2A3FA16A00D8C63E /* HeaderView.swift */; };
 		29D153162A3E01E000331DA1 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29D153152A3E01E000331DA1 /* ToDoListApp.swift */; };
 		29D153182A3E01E000331DA1 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29D153172A3E01E000331DA1 /* MainView.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		290506E52A4806A9003E8355 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		2928A2AE2A3FA16A00D8C63E /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		29D153122A3E01E000331DA1 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29D153152A3E01E000331DA1 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				29D153492A3E286E00331DA1 /* LoginView.swift */,
 				29D1534B2A3E287B00331DA1 /* RegisterView.swift */,
 				2928A2AE2A3FA16A00D8C63E /* HeaderView.swift */,
+				290506E52A4806A9003E8355 /* ButtonView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				29D153342A3E1B3300331DA1 /* ListItemsView.swift in Sources */,
 				29D153362A3E1B5200331DA1 /* NewItemView.swift in Sources */,
 				29D1534C2A3E287C00331DA1 /* RegisterView.swift in Sources */,
+				290506E62A4806A9003E8355 /* ButtonView.swift in Sources */,
 				29D1533A2A3E1E0800331DA1 /* User.swift in Sources */,
 				29D1533E2A3E272F00331DA1 /* MainViewModel.swift in Sources */,
 			);
